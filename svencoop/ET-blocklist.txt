@@ -1,4 +1,5 @@
 #Microsoft Windows Telemetry (Server-Client)
+#Roku+Services Telemetry
 #Eternalll hates your shit Microsoft!
 
 alpha.telemetry.microsft.com
@@ -15,3 +16,14 @@ us.vortex-win.data.microsft.com
 v10-win.vortex.data.microsft.com.akadns.net
 v10.vortex-win.data.microsft.com
 vortex-win-sandbox.data.microsoft.com
+adserver.snapads.com
+asimov-win.settings.data.microsoft.com.akadns.net
+cloudservices.roku.com
+config.edge.skype.com
+events.gfe.nvidia.com
+improving.duckduckgo.com
+midland.logs.roku.com
+sn2.settings.data.microsoft.com.akadns.net
+stat.i-funbox.com
+telemetry.dropbox.com
+telemetry.v.dropbox.com
